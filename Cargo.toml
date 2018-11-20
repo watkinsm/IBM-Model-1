@@ -1,0 +1,11 @@
+[package]
+name = "alignment"
+version = "0.1.0"
+authors = ["Michael Watkins <watkins.michael.andrew+github@gmail.com>"]
+
+[dependencies]
+nlp-tokenize = "0.1.0"
+stdinout = "0.4.0"
+ndarray = "0.11.2"
+counter = "0.4.3"
+clap = "2"
